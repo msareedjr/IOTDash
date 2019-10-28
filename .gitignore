@@ -1,0 +1,6 @@
+logs/
+*.sqlite3
+.idea/
+__pycache__/
+Pipfile
+Pipfile.lock
